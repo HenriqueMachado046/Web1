@@ -14,27 +14,23 @@
 
 <body>
 
-  <header class="jumbotron">
-    <h2 class="cinza"> Exercício 3 </h2>
-    <p class="violeta">
+<header id= "id1" class = "jumbotron">
+    <h2>Exercício 3</h2>
+</header>
 
-	</p>
-  </header>
-
-	<table width = "60%" border = "1" align = "center">
+	<table width = "85%" border = "2" align = "center">
 		
 			<tr><td>
       <form name = "formulario" align = "center" action = "EX3-B.php" method = "post"> 
-					<b> INSIRA A QUANTIDADE DE INSCRIÇÕES </b> <input type = "number" name = "numero"><br> 
+					<b> Insira a quantidade de inscritos </b> <input type = "number" name = "numero"><br> 
           <br>
-					<input type = "submit" value = "ENVIAR">
+					<input type = "submit" value = "Enviar">
 			</td></tr>
 		
 	</table>
 
-  <footer class = "jumbotron">
-    <h3>Renan Gomes Acosta - 11230237</h3>    
-    <h6>"Que a força esteja com você!"</h6>
+  <footer id= "id1" class = "jumbotron">    
+    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
   </footer>
 
 </body>

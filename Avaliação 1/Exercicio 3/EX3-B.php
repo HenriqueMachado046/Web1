@@ -13,14 +13,14 @@
 </head>
 
 <body>
-  <header class = "jumbotron">
-    <h2 class = "cinza"> Exercício 3 </h2>
-  </header>
+<header id= "id1" class = "jumbotron">
+    <h2>Exercício 3</h2>
+</header>
   
-  <table border = "1" width = "50%" align = "center">
+  <table border = "2" width = "75%" align = "center">
 		
 			<tr><td>
-                <div class = "titulo" align = "center"> <b> INSIRA OS NOMES <b></div>
+                <div class = "titulo" align = "center"> <b> Insira os nomes <b></div>
                     <tr><td>
                     <?php
                         $nome = $_POST["nome"];
@@ -46,9 +46,8 @@
         <br><br>
   </table>
     
-  <footer class = "jumbotron">
-    <h3>Renan Gomes Acosta - 11230237</h3>    
-    <h6>"Que a força esteja com você!"</h6>
+  <footer id= "id1" class = "jumbotron">    
+    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
   </footer>
 
 </body>
